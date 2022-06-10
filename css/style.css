@@ -1,6 +1,13 @@
-header {
+.bgc-green {
+    background-color: #1ABC9C;
+}
+
+.bgc-grey {
     background-color: #2C3E50;
-    height: 90px;
+}
+
+.bgc-darkgrey {
+    background-color: #3A546D;
 }
 
 .test-wh {
@@ -21,9 +28,6 @@ header {
     height: 50px;
 }
 
-.bgc-green {
-    background-color: #1ABC9C;
-}
 
 .test-portfolio {
     border: 1px solid green;
