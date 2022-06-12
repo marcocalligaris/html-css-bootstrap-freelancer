@@ -36,10 +36,6 @@
     height: 150px;
 }
 
-._invert {
-    filter: invert(1);
-}
-
 ._square {
     display: flex;
     justify-content: center;
